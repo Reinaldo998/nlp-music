@@ -11,6 +11,7 @@ pandas = "^2.2.2"
 selenium = "^4.24.0"
 matplotlib = "^3.9.2"
 beautifulsoup4 = "^4.12.3"
+requests = "^2.32.3"
 
 [tool.black]
 line-length = 120
