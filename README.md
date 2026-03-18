@@ -1,4 +1,4 @@
-\# Análise Estatística e NLP: Letras de Música Brasileira (1958-2017)
+# Análise Estatística e NLP: Letras de Música Brasileira (1958-2017)
 
 
 
