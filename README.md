@@ -13,7 +13,7 @@ Focada na aquisição e tratamento do corpus textual.
 * **[pegando_nome/](./src/data/pegando_nome)** (R): Web scraping do nome da música, artistas e ano de lançamento.
 * **[pegando_letra/](./src/data/pegando_letra)** (Python/Selenium): Automação para captura do conteúdo textual das letras.
 * **[organiza_dados/](./src/data/organiza_dados)**:
-    * [conferencia_das_letras/](./src/data/organiza_dados/conferencia_das_letras): Validação da integridade entre os nomes das músicas e letras capturados.
+    * [conferencia_das_letras/](./src/data/organiza_dados/conferencia_das_letras): Validação da integridade entre os nomes das músicas e letras capturadas.
     * [ajuste_dados/](./src/data/organiza_dados/ajuste_dados): Atualização e limpeza dos dados.
     * [processamento_vetorizacao/](./src/data/organiza_dados/processamento_vetorizacao): Pré-processamento e vetorização das letras.
 
