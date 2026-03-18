@@ -17,7 +17,7 @@ Focada na aquisição e tratamento do corpus textual.
     * [ajuste_dados/](./src/data/organiza_dados/ajuste_dados): Atualização e limpeza dos dados.
     * [processamento_vetorizacao/](./src/data/organiza_dados/processamento_vetorizacao): Pré-processamento e vetorização das letras.
 
-### 2. [/Analise](./src/Analise) (Análise e Modelagem de tópicos)
+### 2. [/Analise](./src/Analise) (Análise e modelagem de tópicos)
 Focada na aplicação dos métodos e análise dos resultados.
 * **[LDA/](./src/Analise/LDA)** (R): Implementação e diagnóstico do modelo LDA.
 * **[MM/](./src/Analise/MM)** (R): Modelos de Mistura Infinita e análise dos resultados.
